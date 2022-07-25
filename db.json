@@ -56,6 +56,16 @@
           "role": "forward",
           "name": "Richard",
           "id": 15
+        },
+        {
+          "name": "Mark",
+          "role": "midfielder",
+          "id": 16
+        },
+        {
+          "name": "Nolan",
+          "role": "defender",
+          "id": null
         }
       ],
       "defenders": 4,
@@ -114,11 +124,6 @@
       "name": "Nolan",
       "role": "defender",
       "id": 12
-    },
-    {
-      "name": "Oleg",
-      "role": "midfielder",
-      "id": 13
     },
     {
       "name": "Patrick",
