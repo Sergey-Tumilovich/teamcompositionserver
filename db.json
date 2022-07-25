@@ -1,0 +1,129 @@
+{
+  "teams": [
+    {
+      "name": "Team 12",
+      "composition": "4-4-2",
+      "forwards": 0,
+      "midfielders": 0,
+      "defenders": 0,
+      "id": 1,
+      "players": []
+    },
+    {
+      "composition": "4-3-3",
+      "name": "The 1st Team",
+      "players": [],
+      "defenders": 0,
+      "midfielders": 0,
+      "forwards": 0,
+      "id": 2
+    },
+    {
+      "name": "Hurricanes",
+      "composition": "4-4-2",
+      "players": [
+        {
+          "name": "Clive",
+          "role": "forward",
+          "id": 1
+        },
+        {
+          "name": "George",
+          "role": "midfielder",
+          "id": 2
+        },
+        {
+          "name": "Howard",
+          "role": "forward",
+          "id": null
+        },
+        {
+          "name": "Julian",
+          "role": "defender",
+          "id": null
+        }
+      ],
+      "defenders": 0,
+      "midfielders": 0,
+      "forwards": 0,
+      "id": 3
+    },
+    {
+      "name": "All Americans",
+      "composition": "4-3-3",
+      "players": [
+        {
+          "role": "forward",
+          "name": "Richard",
+          "id": 15
+        }
+      ],
+      "defenders": 4,
+      "midfielders": 4,
+      "forwards": 3,
+      "id": 4
+    }
+  ],
+  "players": [
+    {
+      "role": "forward",
+      "name": "Ashton",
+      "id": 1
+    },
+    {
+      "role": "defender",
+      "name": "Daniel",
+      "id": 3
+    },
+    {
+      "role": "forward",
+      "name": "Clive",
+      "id": 4
+    },
+    {
+      "role": "midfielder",
+      "name": "George",
+      "id": 6
+    },
+    {
+      "role": "forward",
+      "name": "Howard",
+      "id": 7
+    },
+    {
+      "role": "defender",
+      "name": "Julian",
+      "id": 8
+    },
+    {
+      "name": "Kevin",
+      "role": "forward",
+      "id": 9
+    },
+    {
+      "name": "Leonard",
+      "role": "midfielder",
+      "id": 10
+    },
+    {
+      "name": "Mark",
+      "role": "midfielder",
+      "id": 11
+    },
+    {
+      "name": "Nolan",
+      "role": "defender",
+      "id": 12
+    },
+    {
+      "name": "Oleg",
+      "role": "midfielder",
+      "id": 13
+    },
+    {
+      "name": "Patrick",
+      "role": "forward",
+      "id": 14
+    }
+  ]
+}
